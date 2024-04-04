@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52cc4cb9-45db-441d-b79a-cc7be75fdec9" name="Changes" comment="reinit project">
-      <change afterPath="$PROJECT_DIR$/MFE/app1/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/.husky/pre-commit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/babel.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/src/declarations.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/src/mfe-app1.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/src/root.component.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/src/root.component.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MFE/app1/webpack.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="52cc4cb9-45db-441d-b79a-cc7be75fdec9" name="Changes" comment="init second microfrontend" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +52,7 @@
       <workItem from="1712158795065" duration="663000" />
       <workItem from="1712233479820" duration="7287000" />
       <workItem from="1712252522003" duration="719000" />
-      <workItem from="1712253931185" duration="3256000" />
+      <workItem from="1712253931185" duration="3358000" />
     </task>
     <task id="LOCAL-00001" summary="UP">
       <option name="closed" value="true" />
@@ -85,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712255238494</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init second microfrontend">
+      <option name="closed" value="true" />
+      <created>1712257271712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712257271712</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UP" />
     <MESSAGE value="reinit project" />
-    <option name="LAST_COMMIT_MESSAGE" value="reinit project" />
+    <MESSAGE value="init second microfrontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="init second microfrontend" />
   </component>
 </project>
