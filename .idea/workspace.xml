@@ -6,6 +6,37 @@
   <component name="ChangeListManager">
     <list default="true" id="52cc4cb9-45db-441d-b79a-cc7be75fdec9" name="Changes" comment="init second microfrontend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/extra-webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/app/app.config.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/app/empty-route/empty-route.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/main.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/main.single-spa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/single-spa/asset-url.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/single-spa/single-spa-props.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFE/footer/tsconfig.spec.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,22 +58,22 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Henrique\\Desktop\\MFE-POC\\MFE\\navbar\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\Henrique\\Desktop\\MFE-POC\\MFE\\footer\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/MFE/footer/package.json" />
@@ -74,7 +105,7 @@
       <workItem from="1712252522003" duration="719000" />
       <workItem from="1712253931185" duration="3358000" />
       <workItem from="1712257361345" duration="2646000" />
-      <workItem from="1712322378884" duration="5494000" />
+      <workItem from="1712322378884" duration="11008000" />
     </task>
     <task id="LOCAL-00001" summary="UP">
       <option name="closed" value="true" />
